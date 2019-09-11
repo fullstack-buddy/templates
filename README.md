@@ -3,6 +3,7 @@ Templates for Fullstack Buddy App
 
 
 # Rails Devise
+TTemplate originally from [Le Wagon](https://www.lewagon.com)
 ```bash
 
 rails new \
