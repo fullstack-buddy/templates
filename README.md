@@ -2,13 +2,10 @@
 Templates for Fullstack Buddy App
 
 
-# Rails Devise
-TTemplate originally from [Le Wagon](https://www.lewagon.com)
-```bash
+# Rails
+These Templates are provided from [Le Wagon](https://www.lewagon.com)! 
+Great templates, and easy to get up and running with. 
 
-rails new \
-  --database postgresql \
-  --webpack \
-  -m https://raw.githubusercontent.com/fullstack-buddy/templates/master/rails_devise.rb \
-  dummy_app
-```
+
+# React
+
